@@ -1,0 +1,30 @@
+{
+    "datadiri": {
+        "nama": {
+            "awal": "LIANA KHAIRUNNISA ",
+            "akhir": "BANCIN"
+        },
+        "status": "Mahasiswa",
+        "jeniskelamin": "Perempuan",
+        "alamat": {
+         
+            "Jalan"    : "Jl.Durian 6 Pemda",
+            "Kecamatan": "Way Huwi",
+            "Kabupaten": "Lampung Selatan",
+            "Provinsi" : "Lampung"
+        },
+        "orangtua": {
+            "bapak": "Nasrun Bancin",
+            "ibu"  : "Dahlia Berutu"
+        },
+        "sosialmedia"  : {
+            "instagram"   : "lkhbancin_",
+            "No_whatsapp" : "085358056989"
+        },
+        "hobi": {
+            "hobi1": "Nonton Drakor",
+            "hobi2": "mendengarkan music BTS",
+            "hobi3": "jajan"
+        }
+    }
+}
